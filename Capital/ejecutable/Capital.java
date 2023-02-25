@@ -22,6 +22,6 @@ public class Capital
             c2 = c2 * 1.04;
             
         }
-        JOptionPane.showMessageDialog(null,"MESES DE ESPERA : " +meses);
+        JOptionPane.showMessageDialog(null,"En " +meses+" meses se lograra la meta.");
     }
 }
